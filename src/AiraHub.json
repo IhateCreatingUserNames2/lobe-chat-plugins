@@ -1,0 +1,12 @@
+{
+  "author": "IhateCreatingUserNames2",
+  "homepage": "https://github.com/IhateCreatingUserNames2/AiraHub2",
+  "identifier": "airahub",
+  "manifest": "https://github.com/IhateCreatingUserNames2/AiraHub2/blob/651028f5c3c1605fd7b63751f33ea1a96c7ab2cc/manifest.json",
+  "meta": {
+    "avatar": "📡",
+    "tags": ["hub", "registry", "mcp", "a2a", "agent", "tools", "proxy"],
+    "title": "AiraHub",
+    "description": "Discover and execute tools from agents registered on the AIRA Hub network. Acts as a proxy to interact with various agent capabilities via MCP."
+  }
+}
